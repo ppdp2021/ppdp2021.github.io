@@ -6,7 +6,7 @@
 
 /* Sass allows constants. */
 
-$primary-color         : #3a7ae0 ;        /* WAS: #F05F40 ; */
+$primary-color         :  #005f6a; /*  #3a7ae0 ;   */     /* WAS: #F05F40 ; */
 $head-bg-color         : $primary-color ; /* WAS: #1f1f1f */
 $primary-focus-color   : #d9d918 ; /* #ffffff ;        /* WAS: #d0d052 */
 $secondary-focus-color : #3468ba ;        /* WAS: #eb3812 */
@@ -75,7 +75,7 @@ table td{
 
 
 .bg-primary {
-  background-color: $primary-color;
+  background-color: #005f6a;
 }
 
 
