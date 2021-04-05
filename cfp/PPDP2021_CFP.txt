@@ -1,0 +1,152 @@
+======================
+PPDP 2021  Call for Papers 
+======================
+
+23rd International Symposium on
+Principles and Practice of Declarative Programming
+
+6–8 September 2021, Tallinn, Estonia
+
+http://imft.ftn.uns.ac.rs/PPDP2021
+
+Collocated with LOPSTR 2021
+
+============================================
+
+Important Dates
+---------------------
+
+- 08.05.2021 title and abstract submission   
+- 15.05.2021 paper submission                     
+- 29.06.2021 rebuttal period (48 hours)
+- 09.07.2021 notification                 
+- 23.07.2021 final paper               
+- 06.09.2021 conference starts                       
+
+About PPDP
+----------
+
+The PPDP 2021 symposium brings together researchers from the
+declarative programming communities, including those working in the
+functional, logic, answer-set, and constraint handling programming
+paradigms. The goal is to stimulate research in the use of logical
+formalisms and methods for analyzing, performing, specifying, and
+reasoning about computations, including mechanisms for concurrency,
+security, static analysis, and verification.
+
+Scope
+-----
+
+Submissions are invited on all topics related to declarative programming,
+from principles to practice, from foundations to applications. 
+Topics of interest include, but are not limited to
+
+ - Language Design: domain-specific languages; interoperability;
+   concurrency, parallelism and distribution; modules; functional
+   languages; reactive languages; languages with objects; languages for
+   quantum computing; languages inspired by biological and chemical
+   computation; metaprogramming.
+
+ - Declarative languages in artificial intelligence: logic programming;
+   database languages; knowledge representation languages;
+   probabilistic languages; differentiable languages.
+
+ - Implementations: abstract machines; interpreters; compilation;
+   compile-time and run-time optimization; memory management.
+
+-   Foundations: types; logical frameworks; monads and effects; semantics.
+
+-   Analysis and Transformation: partial evaluation; abstract interpretation;
+   control flow; data flow; information flow; termination analysis; resource
+   analysis; type inference and type checking; verification; validation;
+   debugging; testing.
+
+ - Tools and Applications: programming and proof environments;
+   verification tools; case studies in proof assistants or interactive
+   theorem provers; certification; novel applications of declarative
+   programming inside and outside of CS; declarative programming
+   pearls; practical experience reports and industrial application;
+   education.
+
+The PC chair will be happy to advise on the appropriateness of a topic.
+
+Submission web page
+---------------------
+
+https://easychair.org/conferences/?conf=ppdp2021
+
+
+Submission Categories
+---------------------
+
+Submissions can be made in three categories:
+
+ - Research Papers,
+ - System Descriptions,
+ - Experience Reports.
+
+Submissions of Research Papers must present original research which is
+unpublished and not submitted elsewhere. They must not exceed 12 pages
+ACM style 2-column (including figures, but excluding bibliography).
+Work that already appeared in unpublished or informally
+published workshop proceedings may be submitted (please contact the PC
+chair in case of questions). Research papers will be judged on
+originality, significance, correctness, clarity, and readability.
+
+Submission of System Descriptions must describe a working system whose
+description has not been published or submitted elsewhere. They must not exceed
+10 pages and should contain a link to a working system. System Descriptions must
+be marked as such at the time of submission and will be judged on originality,
+significance, usefulness, clarity, and readability.
+
+Submissions of Experience Reports are meant to help create a body of published,
+refereed, citable evidence where declarative programming such as functional,
+logic, answer-set, constraint programming, etc., is used in practice. They must
+not exceed 5 pages **including references**.  Experience Reports must be marked
+as such at the time of submission and need not report original research results.
+They will be judged on significance, usefulness, clarity, and readability.
+
+Supplementary material may be provided via a link to an extended
+version of the submission (recommended), or in a clearly marked appendix
+beyond the above-mentioned page limits. Reviewers are not required to
+study extended versions or any material beyond the respective page
+limit.
+
+Formating Guidelines
+———————————
+
+We plan to use the same publication arrangements as PPDP has had in previous years.
+
+For each paper category, you must use the most recent version of the "Current
+ACM Master Template" which is available at
+<https://www.acm.org/publications/proceedings-template>. The most recent version
+at the time of writing is 1.75. You must use the LaTeX sigconf proceedings
+template as the conference organizers are unable to process final submissions in
+other formats. In case of problems with the templates, contact ACM's TeX support
+team at Aptara <acmtexsupport@aptaracorp.com>.
+
+Authors should note ACM's statement on author's rights (http://authors.acm.org/)
+which apply to final papers. Submitted papers should meet the requirements of
+ACM's plagiarism policy
+(http://www.acm.org/publications/policies/plagiarism_policy).
+
+Requirements for Publication
+----------------------------
+
+At least one author of each accepted submission will be expected to
+attend and present the work at the conference. The PC chair may retract
+a paper that is not presented. The PC chair may also retract a paper if
+complaints about the paper's correctness are raised which cannot be
+resolved by the final paper deadline.
+
+-------------------------  --------------------  ---------------------
+Program committee co-chair: Nick Benton, Facebook
+Program committee co-chair: Silvia Ghilezan, University of Novi Sad & Mathematical Institute SASA
+Organising committee chair: Niccolò Veltri, Tallinn University of Technology
+Steering committee chair: James Cheney, Edinburgh University
+-------------------------  --------------------  ---------------------
+
+Contact
+-------------
+For more information about submissions please contact the program chair Silvia Ghilezan <gsilvia@uns.ac.rs>.
+For more information about local arrangements  please contact the local organiser Niccolò Veltri <niccolo@cs.ioc.ee>.
